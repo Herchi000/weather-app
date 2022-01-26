@@ -3,11 +3,11 @@ import MainContainer from './MainContainer';
 
 function App() {
   return(
-    <div className="container">
-        
-        <MainContainer/>
-        
+    <><div className="container">
     </div>
+    <MainContainer/>
+  </>
+    
   );
 }
 
